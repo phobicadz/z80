@@ -1,0 +1,11 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Pasmo Debug",
+            "type": "asm",
+            "request": "launch",
+            "program": "${file}"
+        }
+    ]
+}
